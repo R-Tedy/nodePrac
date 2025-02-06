@@ -1,0 +1,24 @@
+{
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Tedy/nodePrac.git"
+  },
+  "author": "Roland Stedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Tedy/nodePrac/issues"
+  },
+  "homepage": "https://github.com/R-Tedy/nodePrac#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^11.0.5"
+  }
+}
